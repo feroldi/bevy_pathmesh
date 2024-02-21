@@ -31,7 +31,7 @@ default-features = false
 rand = "0.8"
 
 [dev-dependencies.bevy]
-version = "0.12"
+version = "0.12.1"
 features = [
     "bevy_ui",
     "bevy_text",
